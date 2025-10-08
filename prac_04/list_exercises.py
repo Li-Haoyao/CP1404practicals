@@ -3,7 +3,6 @@ CP1404/CP5632 Practical
 List exercises: numbers and username security check
 """
 
-
 def main():
     # Part 1: Number list exercises
     numbers = []
@@ -30,6 +29,5 @@ def main():
         print("Access granted")
     else:
         print("Access denied")
-
 
 main()
